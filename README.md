@@ -1,16 +1,68 @@
 ## Hi there 👋
 
-<!--
-**astitvagarhewal-star/AstitvaGarhewal-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hey, I'm building something real 🚀
 
-Here are some ideas to get you started:
+I'm a 17-year-old developer & founder building in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+⚡ Predicto — Prediction Arbitrage Engine
+A system that finds mispricing in prediction markets (Polymarket + Kalshi)
+
+→ Real-time market data  
+→ Arbitrage opportunities  
+→ Built for real traders  
+
+---
+
+📊 What I'm Doing Now
+- Building Predicto daily
+- Sharing everything publicly
+- Turning this into a real business
+- Learning fast, shipping faster
+
+---
+
+ 🔥 Projects
+
+ 🧠 Predicto (Main Project)
+Prediction market arbitrage system  
+→ Live data  
+→ Edge detection  
+→ Alerts (in progress)  
+
+ ⚡ Velocity
+AI cold email optimizer with A/B testing  
+
+🤖 Nexa
+AI-powered emotional chatbot  
+
+ ☀️ Solar Web
+Solar energy web application  
+
+---
+
+## 🧠 Philosophy
+- Build > Plan  
+- Ship > Perfect  
+- Users > Ideas  
+- Revenue > Validation  
+
+---
+
+📈 Current Goal
+Take Predicto from:
+→ 0 users  
+→ to real revenue  
+
+All in public.
+
+---
+
+🌍 Follow the Journey
+I'm documenting everything:
+- Builds  
+- Failures  
+- Metrics  
+- Growth  
+
+This is going from 0 → something big.
