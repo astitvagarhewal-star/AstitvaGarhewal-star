@@ -1,5 +1,3 @@
-<div align="center">
-
 ```text
    _   ___ _____ ___ _____ __   __ _     ___   _   ___ _  _ _____      ___   _    
   /_\ / __|_   _|_ _|_   _\ \ / //_\   / __| /_\ | _ \ || | __\ \    / /_\ | |   
@@ -7,13 +5,11 @@
 /_/ \_\___/ |_| |___| |_|   \_//_/ \_\ \___/_/ \_\_|_\_||_|___| \_/\_/_/ \_\____|
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Founder+%26+Builder+%40+AGVibe+Labs;Exploring+AI+Agents%2C+Systems+%26+Quant+Tools;Rust+%E2%80%A2+Python+%E2%80%A2+Arch+Linux+%28btw%29)](https://git.io/typing-svg)
+**Founder & Builder @ AGVibe Labs** • Exploring AI Agents, Systems & Quant Tools (`Rust` • `Python` • `Arch Linux btw`)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-astitvagarhewal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astitvagarhewal)
 [![X](https://img.shields.io/badge/X-@Iamnone231414-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iamnone231414)
 [![Live API](https://img.shields.io/badge/Live_Demo-Rust_LLM_Scraper-10B981?style=for-the-badge&logo=rust&logoColor=white)](https://llm-markdown-scraper.onrender.com/)
-
-</div>
 
 ---
 
@@ -44,13 +40,26 @@ currently: Learning fast, shipping experiments, and breaking things on Arch.
 
 ---
 
-### `$ cat /etc/toolchain`  <p align="left"> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Neovim_/_Terminal-181717?style=flat-square&logo=gnubash&logoColor=white" /> </p>  ---  ### `$ git log --stat`
+### `$ cat /etc/toolchain`
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=astitvagarhewal-star&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitvagarhewal-star&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Terminal_/_Bash-181717?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astitvagarhewal-star&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</div>
+---
+
+### `$ git status`
+
+```text
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes staged for 2026–2027:
+  modified:   systems/rust-rag-pipelines
+  new file:   quant/deterministic-research-agents
+  new file:   rice/arch-kde-zen-setup
+```
